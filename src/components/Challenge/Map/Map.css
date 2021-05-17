@@ -1,0 +1,24 @@
+
+text {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    fill: black;
+    text-anchor: middle;
+  }
+path {
+      fill: yellow;
+      stroke: white;
+  }
+  
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+.slider-parent{
+    position:relative;
+  }
+  
+.buble{
+    /* position:absolute; */
+  }
